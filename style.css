@@ -24,3 +24,25 @@ img{
     height: auto;
     width: 400px;
 }
+
+.intro{
+    text-align: center;
+}
+
+.recipes, .how-to-cook, .cooking{
+    display: inline-block;
+}
+
+.hero{
+    text-align: center;
+}
+
+.how-to-cook{
+    text-align: center;
+    margin-right: 400px;
+    margin-left: 200px;
+}
+
+.cooking{
+    text-align: center;
+}
